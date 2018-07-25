@@ -1,0 +1,13 @@
+c:\users\danker\documents\visual studio 2015\Projects\NetConfig\NetConfig\bin\Debug\NetConfig.exe.config
+c:\users\danker\documents\visual studio 2015\Projects\NetConfig\NetConfig\bin\Debug\NetConfig.exe
+c:\users\danker\documents\visual studio 2015\Projects\NetConfig\NetConfig\bin\Debug\NetConfig.pdb
+c:\users\danker\documents\visual studio 2015\Projects\NetConfig\NetConfig\obj\Debug\NetConfig.csprojResolveAssemblyReference.cache
+c:\users\danker\documents\visual studio 2015\Projects\NetConfig\NetConfig\obj\Debug\NetConfig.Form1.resources
+c:\users\danker\documents\visual studio 2015\Projects\NetConfig\NetConfig\obj\Debug\NetConfig.Properties.Resources.resources
+c:\users\danker\documents\visual studio 2015\Projects\NetConfig\NetConfig\obj\Debug\NetConfig.csproj.GenerateResource.Cache
+c:\users\danker\documents\visual studio 2015\Projects\NetConfig\NetConfig\obj\Debug\NetConfig.exe
+c:\users\danker\documents\visual studio 2015\Projects\NetConfig\NetConfig\obj\Debug\NetConfig.pdb
+c:\users\danker\documents\visual studio 2015\Projects\NetConfig\NetConfig\bin\Debug\Renci.SshNet.dll
+c:\users\danker\documents\visual studio 2015\Projects\NetConfig\NetConfig\bin\Debug\Renci.SshNet.xml
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\NetConfig\NetConfig\bin\Debug\NetConfig.exe.CodeAnalysisLog.xml
+C:\Users\Danker\Documents\Visual Studio 2015\Projects\NetConfig\NetConfig\bin\Debug\NetConfig.exe.lastcodeanalysissucceeded
